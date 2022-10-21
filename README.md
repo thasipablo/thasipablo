@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am Pablo Thasi, a Software Engineer **thasipablo/thasipablo**
+
 <!--
 **thasipablo/thasipablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
