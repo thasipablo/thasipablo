@@ -1,6 +1,6 @@
 <h1> Hey there, I'm Pablo 👋</h1>
 
-<p>🧑‍💻 Software Engineer ✨ UI / UX Designer</p>
+<p>🧑‍💻 Software Engineer ✨ UX Designer</p>
 
 <p align="left">
 
