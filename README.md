@@ -8,7 +8,7 @@
 <a href="https://twitter.com/thasipablo_"><img alt="Twitter" src="https://img.shields.io/badge/-@thasipablo_-08a0e9?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thasipablo_"></a>
 </p>
 
-<p align="left">  I am a software engineer interested in _high availability web applications_ and _Web 3_. Enthusiast of UX design. World citizen. 
+<p align="left">  I am a software engineer interested in high availability web applications and Web 3. Enthusiast of UX design. World citizen. 
 </p>
 
 <h1></h1>
