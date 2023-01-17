@@ -19,9 +19,10 @@
 - 💬 _Ask me about_ UX Design and web applications development
 - ⚡ _Hobbies:_ books, music, series
 
+<!--
 <h1></h1>
 <img height="170px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thasipablo" alt="GitHub Stats" /> <br/><br/>
-
+-->
 
 <!--
 **thasipablo/thasipablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
