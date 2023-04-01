@@ -14,8 +14,8 @@
 <h1></h1>
 
 - 🔭 _I’m currently working on_ CMS and LMS systems
-- 🌱 _I’m currently learning_ Web 3
-- 👯 _I’m looking to collaborate on_ Web 3 and UX projects
+- 🌱 _I’m currently learning_ Web3
+- 👯 _I’m looking to collaborate on_ Web3 and UX projects
 - 💬 _Ask me about_ UX Design and web applications development
 - ⚡ _Hobbies:_ books, music, series
 
