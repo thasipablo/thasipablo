@@ -1,31 +1,54 @@
-<h1> Hey there, I'm Pablo 👋</h1>
+# Hey there, I'm Pablo 👋
 
-<p>🧑‍💻 Software Engineer ✨ UX Designer</p>
 
-<p align="left">
+Welcome to my GitHub profile! I'm Pablo, a passionate Software Engineer with a focus on building high availability web applications and a enthusiasm for Rust language philosophy. <br/>
 
-<a href="https://linkedin.com/in/thasipablo/"><img alt="LinkedIn" src="https://img.shields.io/badge/-thasipablo-0075b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thasipablo/"></a>
-<a href="https://twitter.com/thasipablo_"><img alt="Twitter" src="https://img.shields.io/badge/-@thasipablo_-08a0e9?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thasipablo_"></a>
-</p>
+A world citizen. 
 
-<p align="left">  I am a software engineer interested in high availability web applications and Web 3. Enthusiast of UX design. World citizen. 
-</p>
 
-<h1></h1>
+# 
 
-- 🔭 _I’m currently working on_ CMS and LMS systems
-- 🌱 _I’m currently learning_ Web3
-- 👯 _I’m looking to collaborate on_ Web3 and UX projects
-- 💬 _Ask me about_ UX Design and web applications development
-- ⚡ _Hobbies:_ books, music, series
+
+- 🎓 Learning UX Design at Google
+- 💼 Currently working on a Learning Management Systems
+- 💬 Ask me about_ UX Design and web applications development
+- ⚡ Hobbies: books, music, series
 
 <!--
-<h1></h1>
-<img height="170px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thasipablo" alt="GitHub Stats" /> <br/><br/>
+Here are the technologies I work with:
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white) ![Caddy](https://img.shields.io/badge/-Caddy-00ACD7?style=flat&logo=caddy&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![React Redux](https://img.shields.io/badge/-React%20Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 -->
+
+
+#
+
+
+👥 Let's connect and grow together!
+
+
+- 🌐 LinkedIn: [thasipablo](https://www.linkedin.com/in/thasipablo)
+- 🐦 Twitter: [@thasipablo](https://twitter.com/thasipablo)
+
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=thasipablo)
+
+
+#
+
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out to me if you have any questions or just want to connect. Let's build amazing things together! 🚀🌟
 
 <!--
 **thasipablo/thasipablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1></h1>
+<img height="170px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thasipablo" alt="GitHub Stats" /> <br/><br/>
+
+
+<div align="start">
+  <p>Visitors Count</p>  
+  <img src="https://profile-counter.glitch.me/{thasipablo}/count.svg" />
+</div>
 
 Here are some ideas to get you started:
 
