@@ -10,7 +10,7 @@ A world citizen.
 
 
 - 🎓 Learning UX Design at Google
-- 💼 Currently working on a Learning Management Systems
+- 💼 Currently working on a Learning Management System
 - 💬 Ask me about_ UX Design and web applications development
 - ⚡ Hobbies: books, music, series
 
