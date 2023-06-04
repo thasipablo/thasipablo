@@ -1,7 +1,7 @@
 # Hey there, I'm Pablo 👋
 
 
-Welcome to my GitHub profile! I'm Pablo, a passionate Software Engineer with a focus on building high availability web applications and a enthusiasm for Rust language philosophy. <br/>
+Welcome to my GitHub profile! I'm Pablo, a passionate Software Engineer with a focus on building high availability web applications and a enthusiasm for 🦀 Rust language philosophy. <br/>
 
 A world citizen. 
 
@@ -11,8 +11,8 @@ A world citizen.
 
 - 🎓 Learning UX Design at Google
 - 💼 Currently working on a Learning Management System
-- 💬 Ask me about_ UX Design and web applications development
-- ⚡ Hobbies: books, music, series
+- 💬 Ask me about UX Design and web applications development
+- ⚡ Love books, music, series
 
 <!--
 Here are the technologies I work with:
