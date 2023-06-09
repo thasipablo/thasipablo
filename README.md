@@ -1,7 +1,7 @@
 # Hey there, I'm Pablo 👋
 
 
-Welcome to my GitHub profile! I'm Pablo, a passionate Software Engineer with a focus on building high availability web applications and a enthusiasm for 🦀 Rust language philosophy. <br/>
+Welcome to my GitHub profile! I'm Pablo, a passionate Software Engineer with a focus on building high availability web applications and an enthusiast of the 🦀 Rust language philosophy. <br/>
 
 A world citizen. 
 
