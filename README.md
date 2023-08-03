@@ -9,17 +9,20 @@ A world citizen.
 # 
 
 
-- 🎓 Learning UX Design at Google
+- 🎓 I'm following the Remote Full Stack learning program at Microverse
+     and the Professional Google UX Design certificate program.
 - 💼 Currently working on a Learning Management System
 - 💬 Ask me about UX Design and web applications development
 - ⚡ Love books, music, series
 
 <!--
-Here are the technologies I work with:
+#
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white) ![Caddy](https://img.shields.io/badge/-Caddy-00ACD7?style=flat&logo=caddy&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![React Redux](https://img.shields.io/badge/-React%20Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+
+My tech stack:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white) ![Caddy](https://img.shields.io/badge/-Caddy-00ACD7?style=flat&logo=caddy&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![React Redux](https://img.shields.io/badge/-React%20Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 -->
-
 
 #
 
