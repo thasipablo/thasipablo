@@ -9,8 +9,8 @@ A world citizen.
 # 
 
 
-- 🎓 I'm following the Remote Full Stack learning program at Microverse
-     and the Professional Google UX Design certificate program.
+- 🎓 I'm following the Microverse's Full-Stack Web Development Program
+     and the Google UX Design Professional Certificate program.
 - 💼 Currently working on a Learning Management System
 - 💬 Ask me about UX Design and web applications development
 - ⚡ Love books, music, series
