@@ -47,7 +47,12 @@ Thank you for visiting my profile! Feel free to explore my repositories and reac
 <!--
 **thasipablo/thasipablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1></h1>
-<img height="170px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thasipablo" alt="GitHub Stats" /> <br/><br/>
+<a href="#">
+     <img width="380" height="170px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thasipablo" alt="GitHub Stats" />
+</a>
+<a href="#">
+     <img width="380" height="170" src="https://github-readme-stats.vercel.app/api?username=thasipablo&show_icons=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D&card_height=180"/>
+</a>
 
 
 <div align="start">
