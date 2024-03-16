@@ -1,7 +1,7 @@
 # Hey there, I'm Pablo 👋
 
 
-Welcome to my GitHub profile! I'm Pablo, a passionate Software Engineer with a focus on building high-availability web applications and an enthusiast of the 🦀 Rust language philosophy. <br/>
+Welcome to my GitHub profile! I'm Pablo, passionate Software Engineer, 🦀 Rust ans Cairo enthusiast. Starknet Africa Community Member <br/>
 
 A world citizen. 
 
@@ -9,8 +9,7 @@ A world citizen.
 # 
 
 
-- 🎓 I'm following the Microverse's Full-Stack Web Development Program
-     along with the Google UX Design Professional Certificate Program.
+- 🎓 Microverse and Starknet Bootcamp (7th edition) Alumni.
 - 💼 Currently working on a Learning Management System
 - 💬 Ask me about UX Design and web applications development
 - ⚡ Love books, music, series
