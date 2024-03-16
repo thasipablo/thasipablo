@@ -9,7 +9,7 @@ A world citizen.
 # 
 
 
-- 🎓 Microverse and Starknet Bootcamp (7th edition) Alumni.
+- 🎓 Microverse, and Starknet Bootcamp (7th edition) Alumni.
 - 💼 Currently working on a Learning Management System
 - 💬 Ask me about UX Design and web applications development
 - ⚡ Love books, music, series
