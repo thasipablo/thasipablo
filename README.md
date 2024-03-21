@@ -1,7 +1,7 @@
 # Hey there, I'm Pablo 👋
 
 
-Welcome to my GitHub profile! I'm Pablo, passionate Software Engineer, 🦀 Rust ans Cairo enthusiast. Starknet Africa Community Member. <br/>
+Welcome to my GitHub profile! I'm Pablo, passionate Software Engineer, 🦀 Rust and Cairo enthusiast. Starknet Africa Community Member. <br/>
 
 A world citizen. 
 
