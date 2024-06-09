@@ -1,8 +1,7 @@
 # Hey there, I'm Pablo 👋
 
 
-Welcome to my GitHub profile! I'm Pablo, passionate Software Engineer, 🦀 Rust and Cairo/Starknet enthusiast.
-Starknet Africa Community Member.
+Welcome to my GitHub profile! I'm Pablo, passionate Software Engineer, 🦀 Rust and Cairo/Starknet lover.
 
 A world citizen. 
 
@@ -12,7 +11,7 @@ A world citizen.
 
 - 🎓 Microverse, and Starknet Bootcamp (7th cohort) Alumni.
 - 💼 Currently working on a Learning Management System
-- 💬 Ask me about UX Design and web applications development
+- 💬 Ask me about #Starknet, UX Design and web applications development
 - ⚡ Love books, music, series
 
 <!--
@@ -27,15 +26,15 @@ My tech stack:
 #
 
 
-👥 Let's connect and grow together!
+👥 Let's connect!
 
 
 - 🌐 LinkedIn: [thasipablo](https://www.linkedin.com/in/thasipablo)
-- 🐦 Twitter: [@thasipablo](https://twitter.com/thasipablo)
+- 🐦 X: [@thasipablo](https://twitter.com/thasipablo)
 
-
+<!--
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=thasipablo)
-
+-->
 
 #
 
