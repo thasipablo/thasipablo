@@ -9,9 +9,9 @@ A world citizen.
 # 
 
 
-- 🎓 Microverse, and Starknet Bootcamp (7th cohort) Alumni.
+- 🎓 Learning Rust and Cairo/Starknet.
 - 💼 Currently working on a Learning Management System
-- 💬 Ask me about #Starknet, UX Design and web applications development
+- 💬 Ask me about Starknet, UX Design and web applications development
 - ⚡ Love books, music, series
 
 <!--
