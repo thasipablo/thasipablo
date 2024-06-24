@@ -1,7 +1,7 @@
 # Hey there, I'm Pablo 👋
 
 
-Welcome to my GitHub profile! I'm Pablo, passionate Software Engineer, 🦀 Rust and Cairo/Starknet lover.
+Welcome to my GitHub profile! I'm Pablo, passionate Software Engineer, learning 🦀 Rust and Cairo/Starknet.
 
 A world citizen. 
 
