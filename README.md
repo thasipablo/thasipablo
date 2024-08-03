@@ -29,7 +29,7 @@ My tech stack:
 👥 Let's connect!
 
 
-- 🌐 LinkedIn: [thasipablo](https://www.linkedin.com/in/thasipablo)
+- 🌐 Linkedin: [thasipablo](https://www.linkedin.com/in/thasipablo)
 - 🐦 X: [@thasipablo](https://twitter.com/thasipablo)
 
 <!--
