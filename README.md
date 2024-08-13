@@ -12,7 +12,7 @@ A world citizen.
 - 🎓 Learning Rust and Cairo/Starknet
 - 💼 Currently working on a Learning Management System
 - 💬 Ask me about Starknet, UX Design and web applications development
-- ⚡ Love books, music, series
+- 😄 Love books, music, series
 
 <!--
 #
