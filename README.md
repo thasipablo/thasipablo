@@ -30,7 +30,7 @@ My tech stack:
 
 
 - 🌐 Linkedin: [thasipablo](https://www.linkedin.com/in/thasipablo)
-- 🐦 X: [@thasipablo](https://twitter.com/thasipablo)
+- 🐦 X: [@thasipablo_](https://twitter.com/thasipablo_)
 
 <!--
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=thasipablo)
