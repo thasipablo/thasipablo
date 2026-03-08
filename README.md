@@ -41,8 +41,6 @@ My tech stack:
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out to me if you have any questions or just want to connect. Let's build amazing things together! 🚀🌟
 
-![Visitor Count](https://profile-counter.glitch.me/{thasipablo}/count.svg)
-
 <!--
 **thasipablo/thasipablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1></h1>
